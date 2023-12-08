@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Example Event",
+      "date": "2023-10-05 16:55:04",
+      "description": "This is a sample event description."
+    },
+    {
+      "date": "2023-11-12 20:33:38",
+      "title": "Tinkle The Digest Stories",
+      "description": "Contains many Comical Stories , most flourished childhood memories from it , funny,moral, engaging the trearms which i describe it !",
+      "id": 2
+    },
+    {
+      "date": "2023-11-14 12:53:17",
+      "title": "Crickey Views",
+      "description": "this is cricketing skills particiation\n",
+      "id": 3
+    },
+    {
+      "date": "2023-11-30 12:5:23",
+      "title": "the Marathon Earnings hours  editer fghfghfghfghfg",
+      "description": "give your Skill a freedom to make it large",
+      "id": 4
+    }
+  ]
+}
